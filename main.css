@@ -108,6 +108,7 @@ header .wrap .menu .navbar-toggler {
     top: 40px;
     background-color: #000;
     width: 195px;
+    padding-left: 10px;
   }
 }
 
