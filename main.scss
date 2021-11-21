@@ -129,7 +129,7 @@ header {
 
 			@media (max-width: 576px) {
 				flex-direction: column;
-				align-items: end;
+				align-items: flex-end;
 
 				& div:first-child {
 					margin-bottom: 5px;

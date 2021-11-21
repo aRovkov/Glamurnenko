@@ -155,7 +155,7 @@ header .wrap .contacts {
             flex-direction: column;
     -webkit-box-align: end;
         -ms-flex-align: end;
-            align-items: end;
+            align-items: flex-end;
   }
   header .wrap .contacts div:first-child {
     margin-bottom: 5px;
